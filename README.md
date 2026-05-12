@@ -50,10 +50,3 @@ Este repositorio respeta la estructura estándar de **Apache NetBeans IDE**, per
 ```
 
 ---
-
-## 📊 Material de Apoyo (NotebookLM)
-Hemos creado un ecosistema de aprendizaje dinámico para este proyecto usando NotebookLM de Google.
-
-👉 **[Haz clic aquí para acceder al Notebook con Slides e IA](https://notebooklm.google.com/notebook/f940c4aa-649c-4330-9538-1b619a3db5bb)**
-
-*Nota: En el enlace podrás encontrar un resumen generado por IA, un chat dinámico sobre el código y el Slide Deck generado automáticamente.*
