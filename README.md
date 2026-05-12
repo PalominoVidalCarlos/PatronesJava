@@ -1,6 +1,4 @@
-# ☕ Aprendiendo Java: Pattern y Matcher Básicos
-
-¡Bienvenido a este repositorio educativo! Aquí encontrarás todo lo necesario para dar tus primeros pasos trabajando con **Expresiones Regulares (RegEx)** en Java, utilizando las clases del paquete `java.util.regex`.
+# ☕ Pattern y Matcher Básicos
 
 ## 📖 Tabla de Contenidos
 - [🚀 Introducción](#-introducción)
